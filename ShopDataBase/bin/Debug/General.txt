@@ -1,0 +1,12 @@
+﻿Мвидео;Авиационная 88;MSI Geforce RTX 3060 VENTUS;105800
+Мвидео;Юбилейная 5;MSI Geforce RTX 2070 VENTUS;50800
+Мвидео;Проспект 60-лет победы;XFX Radeon RX 550 RX-550P4PFG5;14990
+DNS;Фрунзе 46;AMD FX-4320 OEM;3999
+Мвидео;Флегонтова 42;AMD Athlon 3000G OEM;6999
+Технопоинт;Пушкина 7;AMD Athlon 3000G OEM;6999
+Electronic;Запарина 5;AMD Athlon 3000G OEM;6999
+Интерстеп;Павла-Морозова 24;Intel Core i3-10100F OEM;9299
+220Volt;Ким-ю-Чена 89;AMD FX-4230 OEM;10000
+CyberMall;Ленина 112;MSI Geforce GTX 580;7800
+Технокрад;Ворошилова 34;MSI Geforce GTX 760;12800
+DNS;Кубяка 76;MSI Geforce GTX 670;9800

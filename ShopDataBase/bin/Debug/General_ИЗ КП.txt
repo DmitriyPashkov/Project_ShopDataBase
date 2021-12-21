@@ -1,0 +1,109 @@
+﻿Мвидео;Авиационная 88;Intel Core i3-10100F OEM;9299
+Мвидео;Юбилейная 5;Intel Core i3-10100F OEM;9299
+Мвидео;Проспект 60-лет победы;Intel Core i3-10100F OEM;9299
+DNS;Фрунзе 46;MSI Geforce RTX 3060 VENTUS;105800
+Мвидео;Флегонтова 42;AMD PRO A10-8770 OEM;7699
+Технопоинт;Пушкина 7;MSI Geforce RTX 3060 VENTUS;105800
+Electronic;Запарина 5;MSI Geforce RTX 3060 VENTUS;105800
+Интерстеп;Павла-Морозова 24;MSI Geforce RTX 3060 VENTUS;105800
+220Volt;Ким-ю-Чена 89;MSI Geforce RTX 3060 VENTUS;105800
+CyberMall;Ленина 112;MSI Geforce RTX 3060 VENTUS;105800
+Технокрад;Ворошилова 34;MSI Geforce RTX 3060 VENTUS;105800
+DNS;Кубяка 76;Palit Geforce 1050 Ti StormX;20990
+DNS;Партизанская 8;Palit Geforce 1050 Ti StormX;20990
+Технопоинт;Руднева 96;Palit Geforce 1050 Ti StormX;20990
+Технокрад;Пионерская 94;Palit Geforce 1050 Ti StormX;20990
+220Volt;Павла-Морозова 21;Palit Geforce 1050 Ti StormX;20990
+Electronic;Пушкина 77;Palit Geforce 1050 Ti StormX;20990
+Мвидео;Фрунзе 9;Palit Geforce 1050 Ti StormX;20990
+Мвидео;Авиационная 88;Palit Geforce 1050 Ti StormX;20990
+Мвидео;Юбилейная 5;Palit Geforce 1050 Ti StormX;20990
+Мвидео;Проспект 60-лет победы;Palit Geforce 1050 Ti StormX;20990
+DNS;Фрунзе 46;Gigabyte Geforce GTX 1660 OC 6G;58000
+Мвидео;Флегонтова 42;XFX Radeon RX 550 RX-550P4PFG5;14990
+Технопоинт;Пушкина 7;XFX Radeon RX 550 RX-550P4PFG5;14990
+Electronic;Запарина 5;XFX Radeon RX 550 RX-550P4PFG5;14990
+Интерстеп;Павла-Морозова 24;XFX Radeon RX 550 RX-550P4PFG5;14990
+220Volt;Ким-ю-Чена 89;XFX Radeon RX 550 RX-550P4PFG5;14990
+CyberMall;Ленина 112;XFX Radeon RX 550 RX-550P4PFG5;14990
+Технокрад;Ворошилова 34;Gigabyte Geforce GTX 1660 OC 6G;58000
+DNS;Кубяка 76;XFX Radeon RX 550 RX-550P4PFG5;14990
+DNS;Партизанская 8;XFX Radeon RX 550 RX-550P4PFG5;14990
+Технопоинт;Руднева 96;Gigabyte Geforce GTX 1660 OC 6G;58000
+Технокрад;Пионерская 94;Gigabyte Geforce GTX 1660 OC 6G;58000
+220Volt;Павла-Морозова 21;Gigabyte Geforce GTX 1660 OC 6G;58000
+Electronic;Пушкина 77;Gigabyte Geforce GTX 1660 OC 6G;58000
+Мвидео;Фрунзе 9;XFX Radeon RX 550 RX-550P4PFG5;14990
+Мвидео;Авиационная 88;Gigabyte Geforce GTX 1660 OC 6G;58000
+Мвидео;Юбилейная 5;XFX Radeon RX 550 RX-550P4PFG5;14990
+Мвидео;Проспект 60-лет победы;Gigabyte Geforce GTX 1660 OC 6G;58000
+DNS;Фрунзе 46;AMD FX-4320 OEM;3999
+Мвидео;Флегонтова 42;AMD FX-4320 OEM;3999
+Технопоинт;Пушкина 7;AMD FX-4320 OEM;3999
+Electronic;Запарина 5;AMD FX-4320 OEM;3999
+Интерстеп;Павла-Морозова 24;AMD FX-4320 OEM;3999
+220Volt;Ким-ю-Чена 89;AMD FX-4320 OEM;3999
+CyberMall;Ленина 112;AMD FX-4320 OEM;4050
+Технокрад;Ворошилова 34;AMD FX-4320 OEM;4050
+DNS;Кубяка 76;AMD FX-4320 OEM;4050
+DNS;Партизанская 8;AMD FX-4320 OEM;4050
+Технопоинт;Руднева 96;AMD FX-4320 OEM;4050
+Технокрад;Пионерская 94;AMD FX-4320 OEM;4050
+220Volt;Павла-Морозова 21;AMD FX-4320 OEM;4050
+Electronic;Пушкина 77;AMD FX-4320 OEM;3999
+Мвидео;Фрунзе 9;AMD FX-4320 OEM;4050
+Мвидео;Авиационная 88;AMD FX-4320 OEM;4050
+Мвидео;Юбилейная 5;AMD FX-4320 OEM;3999
+Мвидео;Проспект 60-лет победы;AMD FX-4320 OEM;4050
+DNS;Фрунзе 46;AMD Athlon 3000G OEM;6999
+Мвидео;Флегонтова 42;AMD Athlon 3000G OEM;6999
+Технопоинт;Пушкина 7;AMD Athlon 3000G OEM;6999
+Electronic;Запарина 5;AMD Athlon 3000G OEM;6999
+Интерстеп;Павла-Морозова 24;AMD Athlon 3000G OEM;6999
+220Volt;Ким-ю-Чена 89;AMD Athlon 3000G OEM;6999
+CyberMall;Ленина 112;AMD Athlon 3000G OEM;6999
+Технокрад;Ворошилова 34;AMD Athlon 3000G OEM;6999
+DNS;Кубяка 76;AMD Athlon 3000G OEM;6999
+DNS;Партизанская 8;AMD Athlon 3000G OEM;6999
+Технопоинт;Руднева 96;AMD Athlon 3000G OEM;6999
+Технокрад;Пионерская 94;AMD FX-4300 BOX;4499
+220Volt;Павла-Морозова 21;AMD FX-4300 BOX;4499
+Electronic;Пушкина 77;AMD FX-4300 BOX;4499
+Мвидео;Фрунзе 9;AMD FX-4300 BOX;4499
+Мвидео;Авиационная 88;AMD FX-4300 BOX;4499
+Мвидео;Юбилейная 5;AMD FX-4300 BOX;4499
+Мвидео;Проспект 60-лет победы;AMD FX-4300 BOX;4499
+DNS;Фрунзе 46;Intel Celeron G5905 OEM;6999
+Мвидео;Флегонтова 42;Intel Celeron G5905 OEM;6999
+Технопоинт;Пушкина 7;Intel Celeron G5905 OEM;6999
+Electronic;Запарина 5;Intel Celeron G5905 OEM;6999
+Интерстеп;Павла-Морозова 24;Intel Celeron G5905 OEM;6999
+220Volt;Ким-ю-Чена 89;AMD PRO A10-8770 OEM;7699
+CyberMall;Ленина 112;AMD PRO A10-8770 OEM;7699
+Технокрад;Ворошилова 34;AMD PRO A10-8770 OEM;7699
+DNS;Кубяка 76;AMD PRO A10-8770 OEM;7699
+DNS;Партизанская 8;AMD PRO A10-8770 OEM;7699
+Технопоинт;Руднева 96;AMD PRO A10-8770 OEM;7699
+Технокрад;Пионерская 94;AMD PRO A10-8770 OEM;7699
+220Volt;Павла-Морозова 21;AMD PRO A10-8770 OEM;7699
+Electronic;Пушкина 77;AMD PRO A10-8770 OEM;7699
+Мвидео;Фрунзе 9;Intel Celeron G5905 OEM;6999
+Мвидео;Авиационная 88;Intel Celeron G5905 OEM;6999
+Мвидео;Юбилейная 5;Intel Celeron G5905 OEM;6999
+Мвидео;Проспект 60-лет победы;Intel Celeron G5905 OEM;6999
+DNS;Фрунзе 46;Intel Core i3-10100F OEM;9299
+Мвидео;Флегонтова 42;Intel Core i3-10100F OEM;9299
+Технопоинт;Пушкина 7;AMD Ryzen 3 PRO 1200 OEM;9399
+Electronic;Запарина 5;AMD Ryzen 3 PRO 1200 OEM;9399
+Интерстеп;Павла-Морозова 24;AMD Ryzen 3 PRO 1200 OEM;9399
+220Volt;Ким-ю-Чена 89;AMD Ryzen 3 PRO 1200 OEM;9399
+CyberMall;Ленина 112;AMD Ryzen 3 PRO 1200 OEM;9399
+Технокрад;Ворошилова 34;AMD Ryzen 3 PRO 1200 OEM;9399
+DNS;Кубяка 76;AMD Ryzen 3 PRO 1200 OEM;9399
+DNS;Партизанская 8;AMD Ryzen 3 PRO 1200 OEM;9399
+Технопоинт;Руднева 96;AMD Ryzen 3 PRO 1200 OEM;9399
+Технокрад;Пионерская 94;AMD Ryzen 3 PRO 1200 OEM;9399
+220Volt;Павла-Морозова 21;AMD Ryzen 3 PRO 1200 OEM;9399
+Electronic;Пушкина 77;AMD Ryzen 3 PRO 1200 OEM;9399
+Мвидео;Фрунзе 9;AMD Ryzen 3 PRO 1200 OEM;9399
+Мвидео;Фрунзе 9;AMD FX-4230 OEM;10000
